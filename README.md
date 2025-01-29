@@ -19,4 +19,3 @@ This project focuses on **hate speech detection for low-resource languages** usi
 - **Languages Covered:** Hindi, Marathi, Bangla, English, German
 - **Tech Stack:** Python, PyTorch, Hugging Face Transformers, NLP Libraries
 
-## 📂 Repository Structure
